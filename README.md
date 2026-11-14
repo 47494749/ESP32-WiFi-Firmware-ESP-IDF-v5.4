@@ -1,6 +1,6 @@
 # ESP32-WiFi-Firmware-ESP-IDF-v5.4
 ESP32 WiFi Firmware v7.45.265 - Vulnerabilities
-<img src="images/logo.jpeg" alt="Project logo" width="800" align="center">
+<img src="images/logo_esp.jpeg" alt="Project logo" width="800" align="center">
 
 # What's Inside the ESP32 WiFi Stack
 
